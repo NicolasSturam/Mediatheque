@@ -1,0 +1,36 @@
+a{
+	background-color: white;
+	text-decoration: none;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 20px auto;
+}
+
+.contour{
+	width: 500px;
+	margin: 50px auto;
+}
+form div{
+	margin: 10px 0;
+}
+
+p{
+	color: red;
+}
+
+textarea{
+	resize: none;
+	width: 300px;
+	padding:0;
+}
+
+.genres{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-content: flex-start;
+	column-gap: 20px;
+}
+.genre{
+	width: fit-content;
+}
